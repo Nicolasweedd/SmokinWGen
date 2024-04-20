@@ -1,2 +1,2 @@
-# HacheJotaGen
+# SmokinWGen
 Dejar créditos 
